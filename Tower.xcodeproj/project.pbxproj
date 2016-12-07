@@ -300,6 +300,7 @@
 				8E4C5E4A1DECA59C005B54FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
